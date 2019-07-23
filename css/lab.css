@@ -1,0 +1,40 @@
+
+body
+{
+	width: 800;
+	height: 200;
+	background-color:green;
+}
+#seccionPrincipal h1
+{	
+	width: 400;
+	text-align: center;
+	background-color: darkorange;
+	font-family: white;
+}
+#servicios
+{
+	background-color: grayorange;
+}
+
+#encabezado
+{
+	width: 1400;
+	height: 80;
+	background-color: darkorange;
+}
+.contenedor{
+	text-align: center;
+	width: 500px;
+	height: 400px;
+	padding: 10px;
+	padding-top:10px;
+	padding-left: 15px;
+}
+
+.contenedor1 article
+{
+	background-color: gray;
+}
+
+
